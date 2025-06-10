@@ -39,7 +39,7 @@ cd game-recommendation-system`
 3. **Execute Notebook**
 
 
-## CREDIT:
+## CREDIT
 > Anton Kozyriev. *Game Recommendations on Steam*. Kaggle. 2023.  
 > [https://www.kaggle.com/ds/2871694](https://www.kaggle.com/ds/2871694)  
 > DOI: [10.34740/KAGGLE/DS/2871694](https://doi.org/10.34740/KAGGLE/DS/2871694)
